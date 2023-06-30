@@ -1,27 +1,15 @@
-### Hi there 👋
+###Hi there, I'm Cipher! 👋
 
-I'm Cipher, an 18 year old AI student and hobbyist programmer.
+Welcome to my GitHub profile. I'm an 18-year-old AI student and passionate programmer.
 
-- 🔭 I’m currently working on Janex, which is an free-to-use AI framework for building language models and intent classifiers.
-- 🌱 I’m currently learning the fundamentals of Artificial Intelligence, and my research will be applied to my hobby project Janex.
-- 👯 I’m looking to collaborate on anything open-source and free to use for all developers.
-- 📫 How to reach me:\
-  \
-  My Discord server:
-  ```
-  https://discord.gg/PjQ4cveNdr
-  ```
-<!--
-**Cipher58/Cipher58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently, I'm focused on developing Janex, an AI framework designed for building powerful language models and intent classifiers.
 
-Here are some ideas to get you started:
+🌱 My current area of study revolves around the fundamentals of Artificial Intelligence, and I'm actively applying my research to enhance my hobby project, Janex.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I'm enthusiastic about collaborating on open-source projects that are freely accessible to all developers.
+
+📫 You can reach out to me through the following channels:
+
+💬 Discord: Join my server at https://discord.gg/PjQ4cveNdr
+
+Feel free to explore my repositories and contribute to any projects that catch your interest. Let's create something amazing together!
