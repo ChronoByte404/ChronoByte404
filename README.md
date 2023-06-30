@@ -6,6 +6,7 @@ I'm Cipher, an 18 year old AI student and hobbyist programmer.
 - 🌱 I’m currently learning the fundamentals of Artificial Intelligence, and my research will be applied to my hobby project Janex.
 - 👯 I’m looking to collaborate on anything open-source and free to use for all developers.
 - 📫 How to reach me:
+  My Discord server:
   ```
   https://discord.gg/PjQ4cveNdr
   ```
