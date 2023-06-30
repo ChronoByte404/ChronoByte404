@@ -12,4 +12,4 @@ Welcome to my GitHub profile. I'm an 18-year-old AI student and programmer.
 
 💬 Discord: Join my server at https://discord.gg/PjQ4cveNdr
 
-Feel free to explore my repositories and contribute to any projects that catch your interest. Let's create something amazing together!
+Feel free to explore my repositories and contribute to any projects that catch your interest! I would love to see the feedback and upgrades that can be made!
