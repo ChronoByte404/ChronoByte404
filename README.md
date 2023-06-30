@@ -1,6 +1,6 @@
-###Hi there, I'm Cipher! 👋
+## Hi there, I'm Cipher! 👋
 
-Welcome to my GitHub profile. I'm an 18-year-old AI student and passionate programmer.
+Welcome to my GitHub profile. I'm an 18-year-old AI student and programmer.
 
 🔭 Currently, I'm focused on developing Janex, an AI framework designed for building powerful language models and intent classifiers.
 
