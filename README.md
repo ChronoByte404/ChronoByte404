@@ -27,10 +27,16 @@
 - Repository: [Janex-Ultimate](https://github.com/ChronoByte404/Janex-Ultimate)
 - Description: Janex Ultimate is a Python3 library that offers various methods for creating AI intent classifiers and text generators. It utilizes pre-built models from PyTorch, spaCy, and basic functions for enhanced AI capabilities.
 
+<h2 align="center">GitHub Profile Summary Cards 📊</h2>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChronoByte404&theme=default" alt="Repos Per Language Card" width="800">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChronoByte404&theme=default" alt="Stats Card" width="400">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChronoByte404&theme=default" alt="Productive Time Card" width="400">
+</p>
+
 <h2 align="center">Explore My Repositories 📚</h2>
 
 <p align="center">Feel free to explore my repositories and contribute to any projects that catch your interest!</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChronoByte404&theme=default">
-</p>
