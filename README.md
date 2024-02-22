@@ -31,5 +31,5 @@
 <p align="center">Feel free to explore my repositories and contribute to any projects that catch your interest!</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChronoByte404&theme=dracula" alt="ChronoByte404's GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChronoByte404&theme=default">
 </p>
