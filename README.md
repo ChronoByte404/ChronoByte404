@@ -1,15 +1,22 @@
-## Hi there, I'm Cipher! 👋
+<h1 align="center">👋 Welcome to ChronoByte404's GitHub Profile 🚀</h1>
 
-Welcome to my GitHub profile. I'm an 18-year-old AI student and programmer.
+<p align="center">
+  <img src="https://github.com/ChronoByte404.png" alt="ChronoByte404's Profile Picture" width="200">
+</p>
 
-🔭 Currently, I'm focused on developing Janex, an AI framework designed for building powerful language models and intent classifiers.
+<h2 align="center">About Me ℹ️</h2>
 
-🌱 My current area of study revolves around the fundamentals of Artificial Intelligence, and I'm actively applying my research to enhance my hobby project, Janex.
+<p align="center">I'm a 19-year-old student passionate about Artificial Intelligence, currently pursuing a BSc in the field.</p>
 
-👯 I'm enthusiastic about collaborating on open-source projects that are freely accessible to all developers.
+<h2 align="center">Get in Touch 📫</h2>
 
-📫 You can reach out to me through the following channels:
+<p align="center">💬 Feel free to join my Discord server: <a href="https://discord.gg/PjQ4cveNdr">Join Now</a></p>
 
-💬 Discord: Join my server at https://discord.gg/PjQ4cveNdr
+<h2 align="center">Explore My Repositories 📚</h2>
 
-Feel free to explore my repositories and contribute to any projects that catch your interest! I would love to see the feedback and upgrades that can be made!
+<p align="center">Feel free to explore my repositories and contribute to any projects that catch your interest!</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChronoByte404&theme=dracula" alt="ChronoByte404's GitHub Stats">
+</p>
+
