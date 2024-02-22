@@ -8,10 +8,10 @@
 
 <p align="center">I'm a 19-year-old student passionate about Artificial Intelligence, currently pursuing a BSc in the field.</p>
 
-<h2 align="center">Get in Touch 📫</h2>
+<h2 align="center">Get in Touch 📧</h2>
 
 <p align="center">💬 Feel free to join my Discord server: <a href="https://discord.gg/jpVcf5yPyE">Join Now</a></p>
-<p align="left"> Send me an e-mail! My address is info@timewiserobot.com </p>
+<p align="center">Send me an e-mail! My address is info@timewiserobot.com</p>
 
 <h2 align="center">My Projects 🛠️</h2>
 
