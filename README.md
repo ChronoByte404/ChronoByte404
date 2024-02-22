@@ -10,7 +10,7 @@
 
 <h2 align="center">Get in Touch 📫</h2>
 
-<p align="center">💬 Feel free to join my Discord server: <a href="https://discord.gg/PjQ4cveNdr">Join Now</a></p>
+<p align="center">💬 Feel free to join my Discord server: <a href="https://discord.gg/jpVcf5yPyE">Join Now</a></p>
 
 <h2 align="center">Explore My Repositories 📚</h2>
 
