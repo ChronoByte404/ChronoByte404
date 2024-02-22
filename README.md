@@ -16,11 +16,11 @@
 
 ### Janex Assistant Backend
 - Repository: [Janex-Assistant-Backend](https://github.com/ChronoByte404/Janex-Assistant-Backend)
-- Description: This repository contains the backend code for my personal AI assistant, Janex. It handles the processing of user queries and responses.
+- Description: This repository contains the backend code for my personal AI assistant, Janex. It handles the processing of user queries and responses. Written in Python with majority C++ components.
 
 ### Janex Assistant Frontend
 - Repository: [Janex-Assistant-Frontend](https://github.com/ChronoByte404/Janex-Assistant-Frontend)
-- Description: This repository contains the frontend code for my personal AI assistant, Janex. It provides a user-friendly interface for interacting with the assistant.
+- Description: This repository contains the frontend code for my personal AI assistant, Janex. It provides a user-friendly interface for interacting with the assistant. Written in Python with majority C++ components.
 
 ### Janex Ultimate
 - Repository: [Janex-Ultimate](https://github.com/ChronoByte404/Janex-Ultimate)
