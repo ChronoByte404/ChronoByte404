@@ -33,7 +33,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChronoByte404&theme=default" alt="Repos Per Language Card" width="800">
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChronoByte404&theme=default" alt="Stats Card" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChronoByte404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Stats Card" width="400">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChronoByte404&theme=default" alt="Productive Time Card" width="400">
 </p>
 
