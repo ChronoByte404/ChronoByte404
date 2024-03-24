@@ -6,8 +6,7 @@
 
 <h2 align="center">About Me ℹ️</h2>
 
-<p align="center">I'm a 19-year-old student passionate about Artificial Intelligence, currently pursuing a BSc in the field.</p>
-
+<p align="center">I'm a 19-year-old university student, studying BsC Artificial Intelligence.
 <h2 align="center">Get in Touch 📧</h2>
 
 <p align="center">💬 Feel free to join my Discord server: <a href="https://discord.gg/jpVcf5yPyE">Join Now</a></p>
